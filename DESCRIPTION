@@ -4,9 +4,8 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Andy", "Pickering", , "andypicke@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: R API Wrapper for ElectricityMaps
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: This package provides a R API Wrapper for ElectricityMaps API.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
