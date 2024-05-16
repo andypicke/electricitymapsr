@@ -4,6 +4,8 @@
 # electricitymapsr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/andypicke/electricitymapsr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/andypicke/electricitymapsr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 electricitymapsr is a R API wrapper for electricitymaps
